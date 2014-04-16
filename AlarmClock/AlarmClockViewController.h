@@ -12,8 +12,6 @@
 {
     NSTimer *MyTimer;
     IBOutlet UILabel *CurrentTimeLabel;
-    
-    
 }
 
 -(void) RunTimer;
