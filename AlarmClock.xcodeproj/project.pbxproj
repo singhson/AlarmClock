@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7AB1019618FE62AA00927101 /* AlarmClockTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 7AB1019518FE62AA00927101 /* AlarmClockTest.m */; };
 		A3170E1C17BE35A7008751C0 /* AlarmSetViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A3170E1B17BE35A7008751C0 /* AlarmSetViewController.m */; };
 		A3170E1E17BE3EE3008751C0 /* Alarm.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A3170E1D17BE3EE3008751C0 /* Alarm.mp3 */; };
 		A3AF3AA717BE15E60077AF3A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A3AF3AA617BE15E60077AF3A /* Foundation.framework */; };
@@ -36,6 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7AB1019418FE62AA00927101 /* AlarmClockTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AlarmClockTest.h; sourceTree = "<group>"; };
+		7AB1019518FE62AA00927101 /* AlarmClockTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AlarmClockTest.m; sourceTree = "<group>"; };
 		A3170E1A17BE35A7008751C0 /* AlarmSetViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AlarmSetViewController.h; sourceTree = "<group>"; };
 		A3170E1B17BE35A7008751C0 /* AlarmSetViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AlarmSetViewController.m; sourceTree = "<group>"; };
 		A3170E1D17BE3EE3008751C0 /* Alarm.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Alarm.mp3; sourceTree = "<group>"; };
@@ -126,6 +129,8 @@
 				A3170E1B17BE35A7008751C0 /* AlarmSetViewController.m */,
 				A3AF3ABE17BE15E60077AF3A /* Images.xcassets */,
 				A3AF3AAD17BE15E60077AF3A /* Supporting Files */,
+				7AB1019418FE62AA00927101 /* AlarmClockTest.h */,
+				7AB1019518FE62AA00927101 /* AlarmClockTest.m */,
 			);
 			path = AlarmClock;
 			sourceTree = "<group>";
@@ -259,6 +264,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7AB1019618FE62AA00927101 /* AlarmClockTest.m in Sources */,
 				A3AF3AB317BE15E60077AF3A /* main.m in Sources */,
 				A3AF3ABD17BE15E60077AF3A /* AlarmClockViewController.m in Sources */,
 				A3AF3AB717BE15E60077AF3A /* AlarmClockAppDelegate.m in Sources */,
