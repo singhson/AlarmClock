@@ -19,6 +19,7 @@
     [super viewDidLoad];
     [self RunTimer];
 	// Do any additional setup after loading the view, typically from a nib.
+    NSLog(@"Test Ashish");
 }
 
 - (void)didReceiveMemoryWarning
