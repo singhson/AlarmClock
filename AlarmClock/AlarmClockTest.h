@@ -10,4 +10,5 @@
 
 @interface AlarmClockTest : NSObject
 
+-(void) fake;
 @end

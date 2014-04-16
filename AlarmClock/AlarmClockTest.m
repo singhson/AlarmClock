@@ -9,5 +9,8 @@
 #import "AlarmClockTest.h"
 
 @implementation AlarmClockTest
-
+-(void) fake
+{
+  // this is fake method
+}
 @end
